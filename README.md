@@ -1,2 +1,0 @@
-# OpenGLApps
-OpenGL, GLFW, GLEW
