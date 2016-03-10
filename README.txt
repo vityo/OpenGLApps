@@ -1,4 +1,4 @@
-﻿OpenGL приложения, с использованием Visual Studio 2015, OpenGL 3.3, GLFW, GLEW, GLM, SOIL.
+﻿OpenGL приложения, с использованием Windows 10, Visual Studio 2015, OpenGL 3.3, GLFW, GLEW, GLM, SOIL.
 папка OpenGL - include и lib файлы библиотек
 1 HelloWindow
 2 HelloTriangle
