@@ -8,3 +8,11 @@
 6 Transformations
 7 CoordinateSystems
 8 Camera
+9 Colors
+10 BasicLighting
+11 Materials
+12 LightingMaps
+13 LightCastersDirectional
+14 LightCastersPoint
+15 LightCastersSpotlight
+16 MultipleLights
