@@ -16,3 +16,4 @@
 14 LightCastersPoint
 15 LightCastersSpotlight
 16 MultipleLights
+17 Model
