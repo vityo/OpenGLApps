@@ -18,3 +18,15 @@
 15 LightCastersSpotlight
 16 MultipleLights
 17 Model
+18 DepthTesting
+19 StencilTesting
+20 Blending
+21 FaceCulling
+22 Framebuffers
+23 Cubemaps
+24 AdvancedGLSL
+25 GeometryShader
+26 GeometryShaderAdvance
+27 Instancing
+28 InstancingModel
+29 AntiAliasing
