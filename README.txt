@@ -30,3 +30,14 @@
 27 Instancing
 28 InstancingModel
 29 AntiAliasing
+30 AdvancedLighting
+31 GammaCorrection
+32 ShadowMapping
+33 PointShadows
+34 NormalMapping
+35 NormalMappingModel
+36 ParallaxMapping
+37 HDR
+38 Bloom
+39 DeferredShading
+40 SSAO
